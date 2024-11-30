@@ -44,4 +44,4 @@ For an admin user, you can access the 'BackOffice' by going to 'localhost/diving
 
 # Features unavailable
 
-- Create meetings based from the map suggestions (Google Maps API) - This features uses another API requires monthly payment, so it is not available at the moment.
+- Create meetings based on the map suggestions (Google Maps API) - This features uses another API requires monthly payment, so it is not available at the moment.
