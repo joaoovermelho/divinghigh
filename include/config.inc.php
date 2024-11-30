@@ -22,8 +22,8 @@ $arrConfig['url_site']='http://localhost/divinghigh';
 $arrConfig['dir_site']='/Applications/XAMPP/xamppfiles/htdocs/divinghigh';
 
 // acessos BackOffice
-$arrConfig['url_admin']=$arrConfig['url_site'].'/admin2/demo';
-$arrConfig['dir_admin']=$arrConfig['dir_site'].'/admin2/demo';
+$arrConfig['url_admin']=$arrConfig['url_site'].'/admin/demo';
+$arrConfig['dir_admin']=$arrConfig['dir_site'].'/admin/demo';
 
 // caminhos Docs e/ou fotografias
 $arrConfig['dir_fotos']=$arrConfig['dir_site'].'/upload';
